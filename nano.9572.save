@@ -1,0 +1,12 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Logs y temporales
+*.log
+*.tmp
+*.bak
+
+# Claves y entorno (¡Muy importante!)
+.env
+api_keys.txt
